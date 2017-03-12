@@ -9,7 +9,7 @@
 
 ## Introduction
 
-Laravel Ban simplify management of eloquent model's ban. Make any model bannable in a minutes!
+Laravel Ban simplifies management of Eloquent model's ban. Make any model bannable in a minutes!
 
 Use case is not limited to User model, any Eloquent model could be banned: Organizations, Teams, Groups and others.
 
@@ -259,6 +259,6 @@ If you discover any security related issues, please email a.komarev@cybercog.su 
 
 ## About CyberCog
 
-[CyberCog](http://www.cybercog.ru) is a Social Unity of enthusiasts. Research best solutions in product & software development is our passion.
+[CyberCog](http://www.cybercog.ru) is a Social Unity of enthusiasts. Researching best solutions in product & software development is our passion.
 
 ![cybercog-logo](https://cloud.githubusercontent.com/assets/1849174/18418932/e9edb390-7860-11e6-8a43-aa3fad524664.png)
