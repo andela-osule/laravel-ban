@@ -9,7 +9,7 @@
 
 ## Introduction
 
-Laravel Ban simplifies management of Eloquent model's ban. Make any model bannable in a minute!
+Laravel Ban simplifies management of Eloquent model's ban. Make any model bannable in minutes!
 
 Use case is not limited to User model, any Eloquent model could be banned: Organizations, Teams, Groups and others.
 
@@ -93,7 +93,7 @@ class User extends Authenticatable implements HasBansContract
 
 ### Prepare bannable model database table
 
-Bannable model must have `nullable timestamp` column named `banned_at`. This value used as flag and simplify checks if user was banned. If you are trying to make default Laravel User model to be bannable you can use example below.
+Bannable model must have `nullable timestamp` column named `banned_at`. This value used as flag and simplify checks if user was banned. If you are trying to make default Laravel User model bannable you can use the example below.
 
 #### Create a new migration file
 
@@ -314,7 +314,7 @@ If you discover any security related issues, please email oss@cybercog.su instea
 
 ## License
 
-- `Laravel Ban` package is open-sourced software licensed under the [MIT License](LICENSE).
+- `Laravel Ban` package is open-source software licensed under the [MIT License](LICENSE).
 - `Fat Boss In Jail` image licensed under [Creative Commons 3.0](https://creativecommons.org/licenses/by/3.0/us/) by Gan Khoon Lay.
 
 ## About CyberCog
